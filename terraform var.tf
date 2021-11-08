@@ -1,5 +1,5 @@
-variable "aws_access_key" {}
-variable "aws_secret_key" {}
+variable "AWS_ACCESS_ACCESS_KEY" {}
+variable "AWS_SECRET_ACCESS_KEY" {}
 variable "aws_region" {}
 variable "amis" {
     description = "AMIs by region"
